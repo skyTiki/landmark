@@ -99,6 +99,7 @@
 				2A378E3D25D60FE600C69C39 /* ContentView.swift */,
 				2A378E6E25D6477300C69C39 /* Landmarks */,
 				2A378E6F25D6477D00C69C39 /* Helpers */,
+				2A378E7925D6542E00C69C39 /* Badge */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -126,8 +127,6 @@
 				2A378E6325D6224000C69C39 /* LandmarkList.swift */,
 				2A378E6025D61F3000C69C39 /* LandmarkRow.swift */,
 				2A378E6625D6230000C69C39 /* LandmarkDetail.swift */,
-				2A378E7325D6501700C69C39 /* HexagonParameters.swift */,
-				2A378E7625D6509E00C69C39 /* BadgeBackground.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
@@ -140,6 +139,15 @@
 				2A378E6B25D646D200C69C39 /* FavoriteButton.swift */,
 			);
 			path = Helpers;
+			sourceTree = "<group>";
+		};
+		2A378E7925D6542E00C69C39 /* Badge */ = {
+			isa = PBXGroup;
+			children = (
+				2A378E7325D6501700C69C39 /* HexagonParameters.swift */,
+				2A378E7625D6509E00C69C39 /* BadgeBackground.swift */,
+			);
+			path = Badge;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
